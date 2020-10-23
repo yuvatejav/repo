@@ -1,7 +1,7 @@
 <application>
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_ID" value="b384cf20-08e7-48a3-bbd8-91b49e6419dc" />
-    <option name="COMPILE_SERVER_SDK" value="IntelliJ IDEA Community Edition IC-193.5233.102" />
+    <option name="COMPILE_SERVER_SDK" value="1.8" />
     <option name="USE_PROJECT_HOME_AS_WORKING_DIR" value="true" />
   </component>
 </application>
